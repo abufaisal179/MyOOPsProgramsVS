@@ -1,0 +1,4 @@
+original file : 
+64 64 46 64 64 
+sorted file : 
+46 64 64 64 64 
